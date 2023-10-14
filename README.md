@@ -1,11 +1,11 @@
-About esi-utils-geo
-===================
+About esi-utils-geo-feedstock
+=============================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/esi-utils-geo-feedstock/blob/main/LICENSE.txt)
 
 Home: https://pypi.org/project/esi-utils-geo/
 
 Package license: Unlicense
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/esi-utils-geo-feedstock/blob/main/LICENSE.txt)
 
 Summary: USGS Earthquake Basic Geographic Utilities
 
