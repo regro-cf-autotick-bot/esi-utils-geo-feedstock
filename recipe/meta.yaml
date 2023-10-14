@@ -1,5 +1,5 @@
 {% set name = "esi-utils-geo" %}
-{% set version = "0.9.0" %}
+{% set version = "0.9.5" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/esi-utils-geo-{{ version }}.tar.gz
-  sha256: 921c925d2c18b394e99406de152abc83fe965bc29a0226f3882705c71f3fd432
+  sha256: 29e37b1aa73a4ba95e8906340e350098ef97debf3175cba5131687c1e7d84781
 
 build:
   noarch: python
